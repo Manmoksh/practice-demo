@@ -1,3 +1,4 @@
 # practice-demo
-My first Git repo
+My first git repository.
+<br>
 author Manmoksh
